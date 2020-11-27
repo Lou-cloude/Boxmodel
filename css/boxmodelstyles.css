@@ -8,14 +8,13 @@ p {
     width: 260px;
     padding: 20px;
     margin: auto;
-    margin-bottom: 10px;
-    opacity: 1;
-/*    border: 1px solid;
-    border-color: blue;*/
+    border: 20px solid #FFB6C1;
+    border: 10px solid #F5A623;
 }
 
 /* body {
+    margin-bottom: 10px;
     background-color: #fff;
     padding: 1rem;
     border: 1px solid;
-} */
+}*/
